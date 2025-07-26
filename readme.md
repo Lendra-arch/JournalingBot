@@ -33,7 +33,7 @@ Ini adalah project **bot laporan jurnal harian otomatis** yang dibuat menggunaka
 
 1. Buka [script.new](https://script.new) di browser.
 2. Ganti nama project-nya (misalnya: `Bot Jurnal Harian`).
-3. Hapus semua kode, lalu tempel isi file `main.gs` yang udah kamu punya.
+3. Hapus semua kode, lalu tempel isi file `main.gs` yang udah di download dari sini.
 4. Edit bagian variabel `SPREADSHEET_ID` dan `FOLDER_ID` di awal script pake ID kamu sendiri.
 
 ### 4. Deploy jadi Web App
